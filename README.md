@@ -1,4 +1,4 @@
-# 🎨 3D OBJ Photobooth
+# 🎨 TriDy - 3D OBJ Photobooth
 
 **Turn your 3D models into stunning renders — right in your browser.**
 
